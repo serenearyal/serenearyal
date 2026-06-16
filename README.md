@@ -1,45 +1,67 @@
-<h1 align="center">Hi 👋, I'm Serene Aryal</h1>
-<h3 align="center">Computer Engineering student · Cloud & Software Engineer · AWS Certified</h3>
+<div align="center">
 
-<p align="center">
-  🎓 Graduating Dec 2026 &nbsp;|&nbsp; 💼 Currently at BeCloud LLC &nbsp;|&nbsp; 🔭 Open to Software Engineer roles (sponsorship-eligible)
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=39D353&center=true&vCenter=true&width=560&lines=Cloud+%26+Software+Engineer;Full-stack+apps+%2B+AWS+infrastructure;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+Terraform" alt="typing" />
 
----
+</div>
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```bash
+$ whoami
+serene — Cloud & Software Engineer · AWS Certified
 
-### 📜 Certifications
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+$ pwd
+~/building full-stack apps & AWS cloud infrastructure
+```
 
----
+### `$ tech --stack`
 
-### 📊 GitHub Stats
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0d1117?style=flat-square&logo=swift&logoColor=F05138)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=7B42BC)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serenearyal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=8&theme=tokyonight" alt="top langs" height="170"/>
-</p>
+### `$ languages --all`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=serenearyal&theme=tokyonight" alt="streak" />
-</p>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![HCL](https://img.shields.io/badge/HCL-0d1117?style=flat-square&logo=terraform&logoColor=7B42BC)
+![Shell](https://img.shields.io/badge/Shell-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=serenearyal&theme=tokyonight&no-frame=true&column=7" alt="trophies" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=20&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="languages used" height="180" />
 
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serene.aryal24@gmail.com)
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=serenearyal&color=blue&style=flat" alt="profile views" />
+### `$ git log --contributions`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=serenearyal&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=39d353&currStreakNum=c9d1d9&currStreakLabel=39d353&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&dayLabels=8b949e" alt="contributions" />
+
+</div>
+
+### `$ stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=serenearyal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="stats" height="180" />
+
+</div>
+
+### `$ connect`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-HANDLE)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:serene.aryal24@gmail.com)
+![visitors](https://komarev.com/ghpvc/?username=serenearyal&color=39d353&style=flat-square&label=visitors)
