@@ -23,24 +23,6 @@ Computer Engineering, senior year
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
-## Featured Projects
-
-**HIPAA-Compliant Multi-Site Clinic Infrastructure** · _BeCloud (private)_<br>
-Terraform-provisioned AWS environment connecting a healthcare clinic's two remote sites to a central cloud: EC2 Windows Server running Active Directory, a FortiGate **site-to-site VPN** bridging AWS to each on-prem site, and a self-service AD password-reset portal (S3 + API Gateway + Lambda). Cost-optimized with off-hours instance scheduling, GP3→cold backup tiering, and CloudWatch cost-anomaly alerts; monitored with CloudWatch + GuardDuty — all HIPAA-compliant.<br>
-`AWS` · `EC2` · `Site-to-Site VPN` · `Active Directory` · `Lambda` · `Terraform`
-
-**ZConnect Automation** — healthcare portal admin tool<br>
-Web app that lets admins manage configuration for the zConnect insurance member portal — plan benefits, services, provider networks, and feature/menu/widget toggles — across many clients and divisions, replacing manual database edits with a permissioned, fully audited UI. JWT + email-OTP auth, role-based per-client access, field-level audit logging, and S3 document uploads over a two-database MySQL backend.<br>
-`React` · `Node.js` · `Express` · `MySQL` · `AWS S3`
-
-**SleepStats** — iOS + Apple Watch recovery app<br>
-Turns the Apple Watch's raw HealthKit data (HRV, resting HR, sleep stages, workouts) into a daily Sleep Score, an HRV-baseline Recovery score, a live Body Battery, and Strain-based training guidance — WHOOP-style insight with no extra hardware. Native Watch app, complications, and Lock Screen widgets; all analysis on-device.<br>
-`Swift` · `SwiftUI` · `HealthKit` · `watchOS`
-
-**BAA Compliance Manager** — HIPAA vendor agreements<br>
-Tracks a clinic's vendor Business Associate Agreements end-to-end: auto-flags active / expiring / expired BAAs, schedules 30/60/90-day renewal reminders, logs every action, and generates one-click, audit-ready compliance packets.<br>
-`Next.js` · `React` · `Tailwind`
-
 ## Languages
 
 <table width="100%">
@@ -101,3 +83,21 @@ Tracks a clinic's vendor Business Associate Agreements end-to-end: auto-flags ac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/serenearyal/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:serene.aryal24@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=serenearyal&color=39d353&style=flat-square&label=visitors)
+
+## Featured Projects
+
+**HIPAA-Compliant Multi-Site Clinic Infrastructure** · _BeCloud (private)_<br>
+Terraform-provisioned AWS environment connecting a healthcare clinic's two remote sites to a central cloud: EC2 Windows Server running Active Directory, a FortiGate **site-to-site VPN** bridging AWS to each on-prem site, and a self-service AD password-reset portal (S3 + API Gateway + Lambda). Cost-optimized with off-hours instance scheduling, GP3→cold backup tiering, and CloudWatch cost-anomaly alerts; monitored with CloudWatch + GuardDuty — all HIPAA-compliant.<br>
+`AWS` · `EC2` · `Site-to-Site VPN` · `Active Directory` · `Lambda` · `Terraform`
+
+**ZConnect Automation** — healthcare portal admin tool<br>
+Web app that lets admins manage configuration for the zConnect insurance member portal — plan benefits, services, provider networks, and feature/menu/widget toggles — across many clients and divisions, replacing manual database edits with a permissioned, fully audited UI. JWT + email-OTP auth, role-based per-client access, field-level audit logging, and S3 document uploads over a two-database MySQL backend.<br>
+`React` · `Node.js` · `Express` · `MySQL` · `AWS S3`
+
+**SleepStats** — iOS + Apple Watch recovery app<br>
+Turns the Apple Watch's raw HealthKit data (HRV, resting HR, sleep stages, workouts) into a daily Sleep Score, an HRV-baseline Recovery score, a live Body Battery, and Strain-based training guidance — WHOOP-style insight with no extra hardware. Native Watch app, complications, and Lock Screen widgets; all analysis on-device.<br>
+`Swift` · `SwiftUI` · `HealthKit` · `watchOS`
+
+**BAA Compliance Manager** — HIPAA vendor agreements<br>
+Tracks a clinic's vendor Business Associate Agreements end-to-end: auto-flags active / expiring / expired BAAs, schedules 30/60/90-day renewal reminders, logs every action, and generates one-click, audit-ready compliance packets.<br>
+`Next.js` · `React` · `Tailwind`
