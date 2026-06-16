@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=800&color=39D353&center=true&vCenter=true&width=560&lines=Cloud+%26+Software+Engineer;Full-stack+apps+%2B+AWS+infrastructure;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+Terraform" alt="typing" />
+# Serene Aryal
+
+**Cloud & Software Engineer · AWS Certified**
 
 </div>
 
-```bash
-$ whoami
-serene — Cloud & Software Engineer · AWS Certified
-
-$ pwd
-~/building full-stack apps & AWS cloud infrastructure
-```
-
-### `$ tech --stack`
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -27,7 +21,7 @@ $ pwd
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 
-### `$ languages --all`
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -40,11 +34,11 @@ $ pwd
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=20&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="languages used" height="180" />
+<img src="https://github-readme-stats-serenes-projects-74f5d3dd.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=20&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="languages" height="175" />
 
 </div>
 
-### `$ git log --contributions`
+## Contributions
 
 <div align="center">
 
@@ -52,16 +46,16 @@ $ pwd
 
 </div>
 
-### `$ stats`
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=serenearyal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="stats" height="180" />
+<img src="https://github-readme-stats-serenes-projects-74f5d3dd.vercel.app/api?username=serenearyal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="stats" height="175" />
 
 </div>
 
-### `$ connect`
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/serenearyal/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:serene.aryal24@gmail.com)
 ![visitors](https://komarev.com/ghpvc/?username=serenearyal&color=39d353&style=flat-square&label=visitors)
