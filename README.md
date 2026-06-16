@@ -23,9 +23,9 @@
 
 ## Languages
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td width="240" valign="top">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
@@ -47,9 +47,9 @@
 ![Jinja](https://img.shields.io/badge/Jinja-0d1117?style=flat-square&logo=jinja&logoColor=B41717)
 
 </td>
-<td valign="top">
+<td valign="top" align="center">
 
-<img src="https://github-readme-stats-serenes-projects-74f5d3dd.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=20&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&cache_seconds=21600&v=2" alt="languages" height="175" />
+<img src="https://github-readme-stats-serenes-projects-74f5d3dd.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=20&card_width=480&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&cache_seconds=21600&v=4" alt="languages" width="480" />
 
 </td>
 </tr>
