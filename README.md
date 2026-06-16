@@ -31,6 +31,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![HCL](https://img.shields.io/badge/HCL-0d1117?style=flat-square&logo=terraform&logoColor=7B42BC)
 ![Shell](https://img.shields.io/badge/Shell-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=white)
 
 <div align="center">
 
