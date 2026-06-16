@@ -23,21 +23,37 @@
 
 ## Languages
 
+<table>
+<tr>
+<td valign="top">
+
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![HCL](https://img.shields.io/badge/HCL-0d1117?style=flat-square&logo=terraform&logoColor=7B42BC)
+![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138)
+![VHDL](https://img.shields.io/badge/VHDL-0d1117?style=flat-square)
 ![Shell](https://img.shields.io/badge/Shell-0d1117?style=flat-square&logo=gnubash&logoColor=4EAA25)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Lua](https://img.shields.io/badge/Lua-0d1117?style=flat-square&logo=lua&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d1117?style=flat-square&logo=powershell&logoColor=5391FE)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=flat-square&logo=ruby&logoColor=CC342D)
+![Svelte](https://img.shields.io/badge/Svelte-0d1117?style=flat-square&logo=svelte&logoColor=FF3E00)
+![Tcl](https://img.shields.io/badge/Tcl-0d1117?style=flat-square)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![TeX](https://img.shields.io/badge/TeX-0d1117?style=flat-square&logo=latex&logoColor=008080)
+![Go Template](https://img.shields.io/badge/Go%20Template-0d1117?style=flat-square&logo=go&logoColor=00ADD8)
+![Jinja](https://img.shields.io/badge/Jinja-0d1117?style=flat-square&logo=jinja&logoColor=B41717)
 
-<div align="center">
+</td>
+<td valign="top">
 
 <img src="https://github-readme-stats-serenes-projects-74f5d3dd.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=20&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&cache_seconds=21600&v=2" alt="languages" height="175" />
 
-</div>
+</td>
+</tr>
+</table>
 
 ## Contributions
 
