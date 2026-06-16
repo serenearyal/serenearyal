@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-serenes-projects-74f5d3dd.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=20&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="languages" height="175" />
+<img src="https://github-readme-stats-serenes-projects-74f5d3dd.vercel.app/api/top-langs/?username=serenearyal&layout=compact&langs_count=20&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&cache_seconds=21600&v=2" alt="languages" height="175" />
 
 </div>
 
