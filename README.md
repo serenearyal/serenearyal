@@ -63,11 +63,6 @@ Computer Engineering, senior year
 
 <img src="https://streak-stats.demolab.com/?user=serenearyal&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=39d353&currStreakNum=c9d1d9&currStreakLabel=39d353&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&dayLabels=8b949e" alt="contributions" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serenearyal/serenearyal/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/serenearyal/serenearyal/output/github-contribution-grid-snake.svg" />
-</picture>
-
 </div>
 
 ## Stats
