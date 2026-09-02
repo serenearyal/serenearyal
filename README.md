@@ -14,7 +14,7 @@ Working on software, platform, and AI agents
 
 ## Work
 
-- **Software Engineer @ BeCloud** - Healthcare infrastructure, HIPAA-compliant. AWS Partner company.
+- **Software Engineer @ BeCloud** - Healthcare infra on AWS, HIPAA-compliant. AWS Partner company.
 - **Software Engineer @ Zakipoint Health** - zConnect product.
 
 ## Solo App Dev
