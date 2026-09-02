@@ -4,7 +4,7 @@
 
 **Cloud & Software Engineer · AWS Solutions Architect Professional**
 
-Computer Engineering, senior year
+Working on software, platform, and AI agents
 
 [LinkedIn](https://www.linkedin.com/in/serenearyal/) · [Gmail](mailto:serene.aryal24@gmail.com)
 
@@ -21,9 +21,3 @@ Computer Engineering, senior year
 
 - [**ScanMyCar**](https://serenearyal.github.io/scanmycar/) - Agentic AI mechanic that diagnoses issues in your car using an OBD scanner.
 - [**SleepStats**](https://sleepstats.app/) - Sleep & recovery analytics platform.
-
-<div align="center">
-
-<img src="https://github-readme-stats-serenes-projects-74f5d3dd.vercel.app/api?username=serenearyal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="stats" height="150" />
-
-</div>
