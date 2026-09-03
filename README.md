@@ -24,18 +24,6 @@ Working on software, platform, and AI agents
 
 ## Off the keyboard
 
-<img src="assets/cube.svg" width="96" align="left" alt="">
-
-**7.47** seconds<br>
-Rubik's cube, [WCA profile](https://www.worldcubeassociation.org/persons/2017ARYA01)
-
-<br clear="all">
-
-<img src="assets/knight.svg" width="96" align="left" alt="">
-
-**~1700** rapid<br>
-Chess, [chess.com profile](https://www.chess.com/member/serenearyal)
-
-<br clear="all">
+<a href="https://www.worldcubeassociation.org/persons/2017ARYA01"><img src="assets/cube-card.svg" width="340" alt="Rubik's cube, 7.47 seconds, WCA profile"></a>&nbsp;&nbsp;<a href="https://www.chess.com/member/serenearyal"><img src="assets/knight-card.svg" width="340" alt="Chess, about 1700 rapid, chess.com profile"></a>
 
 <p align="right"><sub><img src="https://komarev.com/ghpvc/?username=serenearyal&label=views&color=30363d&style=flat-square" alt="profile views" height="16"></sub></p>
