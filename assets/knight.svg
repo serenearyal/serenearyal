@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<style>
+  .scribble{fill:none;stroke:#1b1f24;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.2s ease-in-out .2s forwards}
+  .h{stroke-width:1.4}
+  .sticker{opacity:0;animation:ink .6s ease-out 1.9s forwards}
+  .w{fill:#fbfbf8}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @keyframes ink{to{opacity:.9}}
+  @media (prefers-color-scheme:dark){.scribble{stroke:#e8e8e3}.w{fill:#e8e8e3}}
+</style>
+
+          <g class="scribble">
+            <path pathLength="1" d="M47 21 C46 17 45 12 44 7 C48 10 51 14 52 19 C62 15 72 21 76 32 C80 46 77 60 73 71 L35 71 C33 62 34 52 41 45 C37 46 33 47 30 48 L17 43 C14 42 13 38 15 35 C24 30 35 25 47 21 Z"/>
+            <path pathLength="1" d="M64 23 C70 33 71 52 69 66"/>
+            <path pathLength="1" d="M41 45 C38 50 37 57 39 63"/>
+            <path pathLength="1" class="h" d="M37 52 L42 47 M36.5 56 L43 49.5 M37 60 L44 53 M38 63 L45 56.5 M40 66 L46 60"/>
+            <path pathLength="1" d="M32 71 L74 71 C77 71 78 74 78 76 C78 79 76 80 73 80 L31 80 C28 80 26 78 26 76 C26 73 29 71 32 71 Z"/>
+            <path pathLength="1" d="M29 80 L77 80 C80 80 82 83 82 86 C82 89 80 91 77 91 L27 91 C24 91 22 89 22 86 C22 83 25 80 29 80 Z"/>
+            <path pathLength="1" class="h" d="M29 79 L35 72 M33 79 L39 72 M37 79 L43 72 M41 79 L47 72"/>
+            <path pathLength="1" class="h" d="M26 90 L33 81 M30 90 L37 81 M34 90 L41 81 M38 90 L45 81 M42 90 L49 81"/>
+            <path pathLength="1" d="M20 39 C22 39.5 24 39.5 26 39"/>
+          </g>
+        
+</svg>

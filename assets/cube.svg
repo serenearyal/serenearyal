@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<style>
+  .scribble{fill:none;stroke:#1b1f24;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.2s ease-in-out .2s forwards}
+  .h{stroke-width:1.4}
+  .sticker{opacity:0;animation:ink .6s ease-out 1.9s forwards}
+  .w{fill:#fbfbf8}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @keyframes ink{to{opacity:.9}}
+  @media (prefers-color-scheme:dark){.scribble{stroke:#e8e8e3}.w{fill:#e8e8e3}}
+</style>
+
+          <g class="sticker">
+            <path pathLength="1" fill="#f2c531" d="M50 12 L61 18 L50 24 L39 18 Z"/>
+            <path pathLength="1" class="w" d="M61 18 L72 24 L61 30 L50 24 Z"/>
+            <path pathLength="1" fill="#e4402e" d="M72 24 L83 30 L72 36 L61 30 Z"/>
+            <path pathLength="1" fill="#2f6fd6" d="M39 18 L50 24 L39 30 L28 24 Z"/>
+            <path pathLength="1" fill="#f2c531" d="M50 24 L61 30 L50 36 L39 30 Z"/>
+            <path pathLength="1" fill="#40a94b" d="M61 30 L72 36 L61 42 L50 36 Z"/>
+            <path pathLength="1" fill="#f08a24" d="M28 24 L39 30 L28 36 L17 30 Z"/>
+            <path pathLength="1" class="w" d="M39 30 L50 36 L39 42 L28 36 Z"/>
+            <path pathLength="1" fill="#e4402e" d="M50 36 L61 42 L50 48 L39 42 Z"/>
+            <path pathLength="1" fill="#e4402e" d="M17 30 L28 36 L28 49 L17 43 Z"/>
+            <path pathLength="1" fill="#2f6fd6" d="M28 36 L39 42 L39 55 L28 49 Z"/>
+            <path pathLength="1" fill="#e4402e" d="M39 42 L50 48 L50 61 L39 55 Z"/>
+            <path pathLength="1" fill="#40a94b" d="M17 43 L28 49 L28 62 L17 56 Z"/>
+            <path pathLength="1" fill="#e4402e" d="M28 49 L39 55 L39 68 L28 62 Z"/>
+            <path pathLength="1" fill="#f2c531" d="M39 55 L50 61 L50 74 L39 68 Z"/>
+            <path pathLength="1" fill="#f08a24" d="M17 56 L28 62 L28 75 L17 69 Z"/>
+            <path pathLength="1" class="w" d="M28 62 L39 68 L39 81 L28 75 Z"/>
+            <path pathLength="1" fill="#2f6fd6" d="M39 68 L50 74 L50 87 L39 81 Z"/>
+            <path pathLength="1" fill="#2f6fd6" d="M50 48 L61 42 L61 55 L50 61 Z"/>
+            <path pathLength="1" fill="#40a94b" d="M61 42 L72 36 L72 49 L61 55 Z"/>
+            <path pathLength="1" fill="#2f6fd6" d="M72 36 L83 30 L83 43 L72 49 Z"/>
+            <path pathLength="1" class="w" d="M50 61 L61 55 L61 68 L50 74 Z"/>
+            <path pathLength="1" fill="#2f6fd6" d="M61 55 L72 49 L72 62 L61 68 Z"/>
+            <path pathLength="1" fill="#f08a24" d="M72 49 L83 43 L83 56 L72 62 Z"/>
+            <path pathLength="1" fill="#40a94b" d="M50 74 L61 68 L61 81 L50 87 Z"/>
+            <path pathLength="1" fill="#f2c531" d="M61 68 L72 62 L72 75 L61 81 Z"/>
+            <path pathLength="1" fill="#40a94b" d="M72 62 L83 56 L83 69 L72 75 Z"/>
+          </g>
+          <g class="scribble">
+            <path pathLength="1" d="M50 11.5 C61 17.4 72.2 23.6 83.4 29.8 L83 69.5 C72.3 75.4 61.2 81.6 50.2 87.3 C39.1 81.5 28 75.4 17.2 69.2 L16.8 30.2 C27.9 24.1 38.9 17.8 50 11.5 Z"/>
+            <path pathLength="1" d="M83.2 30 L50.4 48.2 L17 30.4"/>
+            <path pathLength="1" d="M50.4 48.2 L50 87"/>
+            <path pathLength="1" d="M61.2 17.8 L28.3 36.2 M72 24 L39.4 42.3 M39.2 18.2 L72.2 36.1 M28 24.4 L61 42.2"/>
+            <path pathLength="1" d="M28.2 36.2 L28 75.2 M39.3 42.3 L39.1 81.3 M17 43.3 L50.2 61.2 M17.1 56.3 L50.1 74.1"/>
+            <path pathLength="1" d="M61.2 42.2 L61 81.2 M72.1 36.1 L72 75.1 M50.2 61.2 L83.2 43.1 M50.1 74.1 L83.1 56.2"/>
+          </g>
+        
+</svg>
